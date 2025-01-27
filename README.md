@@ -21,4 +21,4 @@ Prepare your dataset by following the instructions in sample_data.json. The data
 The model’s performance is evaluated using the ROUGE metric, which compares the generated text with reference text (ground truth). You can track real-time training and evaluation metrics using Weights & Biases (W&B).
 
 Live Metrics: Metrics such as loss and ROUGE scores are tracked on W&B for visualization and further analysis.
-View my W&B experiment dashboard. (https://wandb.ai/silprado96-me/huggingface/runs/jha7pg0o/workspace?nw=nwusersilprado96)
+View my W&B experiment dashboard. ($$$)
